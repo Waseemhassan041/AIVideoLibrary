@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "691091470098",
+    "project_id": "ai-video-library-850fe",
+    "storage_bucket": "ai-video-library-850fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691091470098:android:5f55b8804074f2ce5825cb",
+        "android_client_info": {
+          "package_name": "com.ainest.aivideolibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691091470098-rrer1vn6dd5p3fli393sck4cn1anvtmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ainest.aivideolibrary",
+            "certificate_hash": "fb7bf2221b53ed2d69b66232a32e14a62d76b6d7"
+          }
+        },
+        {
+          "client_id": "691091470098-9brb11fqn9h5j1djl3clorbmv1prgelr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe1xeAqqgKOEp0CWo5kPrWi7UdahplbqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691091470098-9brb11fqn9h5j1djl3clorbmv1prgelr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
